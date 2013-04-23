@@ -24,7 +24,16 @@ body {
 
 #footer {
     width: 100%;
+}
 
+p {
+    text-align: left;
+    text-indent: 2em;
+}
+
+p.tip {
+    font-size: 0.9em;
+    color: darkred;
 }
 
 @media screen and (orientation:landscape) {
