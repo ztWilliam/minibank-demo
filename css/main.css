@@ -6,7 +6,10 @@ body {
 
 #wrapper {
     width: 95%;
-
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
 }
 
 #intro {
